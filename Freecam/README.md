@@ -49,7 +49,7 @@ If you want to launch the game without any of the modifications, just drag the P
 
 # Uninstall:
 
-1) Delete the Mods folder inside the Script folder.
+1) Delete the Mods and Speed folder inside the Script folder.
 
 2) Find your Script folder backup, and replace all files.
 
